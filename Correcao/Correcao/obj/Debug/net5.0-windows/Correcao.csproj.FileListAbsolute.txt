@@ -1,0 +1,60 @@
+C:\Users\alunos\source\repos\Correcao\Correcao\bin\Debug\net5.0-windows\Correcao.exe
+C:\Users\alunos\source\repos\Correcao\Correcao\bin\Debug\net5.0-windows\Correcao.deps.json
+C:\Users\alunos\source\repos\Correcao\Correcao\bin\Debug\net5.0-windows\Correcao.runtimeconfig.json
+C:\Users\alunos\source\repos\Correcao\Correcao\bin\Debug\net5.0-windows\Correcao.runtimeconfig.dev.json
+C:\Users\alunos\source\repos\Correcao\Correcao\bin\Debug\net5.0-windows\Correcao.dll
+C:\Users\alunos\source\repos\Correcao\Correcao\bin\Debug\net5.0-windows\ref\Correcao.dll
+C:\Users\alunos\source\repos\Correcao\Correcao\bin\Debug\net5.0-windows\Correcao.pdb
+C:\Users\alunos\source\repos\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.csproj.AssemblyReference.cache
+C:\Users\alunos\source\repos\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.Cadastro.resources
+C:\Users\alunos\source\repos\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.Form1.resources
+C:\Users\alunos\source\repos\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.csproj.GenerateResource.cache
+C:\Users\alunos\source\repos\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\source\repos\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.AssemblyInfoInputs.cache
+C:\Users\alunos\source\repos\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.AssemblyInfo.cs
+C:\Users\alunos\source\repos\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.csproj.CoreCompileInputs.cache
+C:\Users\alunos\source\repos\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.dll
+C:\Users\alunos\source\repos\Correcao\Correcao\obj\Debug\net5.0-windows\ref\Correcao.dll
+C:\Users\alunos\source\repos\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.pdb
+C:\Users\alunos\source\repos\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.genruntimeconfig.cache
+C:\Users\alunos\source\repos\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.Consultar.resources
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\Correcao.exe
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\Correcao.deps.json
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\Correcao.runtimeconfig.json
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\Correcao.runtimeconfig.dev.json
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\Correcao.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\Correcao.pdb
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\bin\Debug\net5.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.csproj.AssemblyReference.cache
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.Cadastro.resources
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.Consultar.resources
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.Form1.resources
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.csproj.GenerateResource.cache
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.AssemblyInfoInputs.cache
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.AssemblyInfo.cs
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.csproj.CoreCompileInputs.cache
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.csproj.CopyComplete
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\obj\Debug\net5.0-windows\refint\Correcao.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.pdb
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.genruntimeconfig.cache
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\obj\Debug\net5.0-windows\ref\Correcao.dll
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.Excluir.resources
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.Alterar.resources
+C:\Users\maxih\OneDrive\Área de Trabalho\Correcao\Correcao\obj\Debug\net5.0-windows\Correcao.Properties.Resources.resources
